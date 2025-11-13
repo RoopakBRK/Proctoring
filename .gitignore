@@ -1,0 +1,18 @@
+# Environments
+.venv/
+venv/
+env/
+ENV/
+Procturing_analysis/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Binaries
+*.so
+*.dylib
+
+# Env vars
+.env

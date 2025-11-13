@@ -1,0 +1,23 @@
+{
+  "primary_speaker": "SPEAKER_01",
+  "audio_duration": 37.69,
+  "segments": [
+    {
+      "speaker": "SPEAKER_02",
+      "start": "0:00:25.152",
+      "end": "0:00:26.952",
+      "duration": 1.8,
+      "flagged": true,
+      "proof_audio": "reports/local_test/voice_proofs/SPEAKER_02_from_25_153s_to_26_952s_cec518.wav"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": "0:00:21.044",
+      "end": "0:00:24.830",
+      "duration": 3.79,
+      "flagged": true,
+      "proof_audio": "reports/local_test/voice_proofs/SPEAKER_00_from_21_044s_to_24_830s_dd84fb.wav"
+    }
+  ],
+  "min_flag_duration": 1.5
+}

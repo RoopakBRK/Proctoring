@@ -1,0 +1,25 @@
+[project]
+name = "procturing-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ffmpeg-python>=0.2.0",
+    "fpdf>=1.7.2",
+    "fpdf2>=2.8.5",
+    "jinja2>=3.1.6",
+    "mediapipe>=0.10.21",
+    "moviepy>=2.2.1",
+    "numpy>=1.26.4",
+    "opencv-python>=4.11.0.86",
+    "pyannote-audio==3.1.1",
+    "pydub>=0.25.1",
+    "python-dotenv>=1.2.1",
+    "torch==2.1.2",
+    "torchaudio==2.1.2",
+    "torchvision==0.16.2",
+    "tqdm>=4.67.1",
+    "ultralytics>=8.3.227",
+    "yt-dlp>=2025.10.22",
+]

@@ -1,0 +1,19 @@
+yt-dlp
+opencv-python
+mediapipe
+numpy
+pydub
+torch
+torchaudio
+torchvision
+pyannote.audio==3.1.1
+ # latest 3.x line supports Python 3.11 according to release notes. :contentReference[oaicite:0]{index=0}
+ffmpeg-python
+tqdm
+jinja2
+python-dotenv
+fpdf
+fpdf2
+pydub
+moviepy
+ultralytics
