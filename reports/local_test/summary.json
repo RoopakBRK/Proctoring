@@ -1,181 +1,76 @@
 {
-  "session_id": "e099b035",
-  "duration": "37.67s",
+  "session_id": "894cb7b7",
+  "duration": "66.43s",
   "face_flags": [
     {
-      "timestamp": "00:00:15.800",
+      "timestamp": "00:00:26.000",
       "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-15_800.jpg"
+      "proof_image": "reports/local_test/face_proofs/multiface_00-00-26_000.jpg"
     },
     {
-      "timestamp": "00:00:15.867",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-15_867.jpg"
+      "timestamp": "00:00:27.000",
+      "reason": "Multiple Faces (3)",
+      "proof_image": "reports/local_test/face_proofs/multiface_00-00-27_000.jpg"
     },
     {
-      "timestamp": "00:00:15.933",
+      "timestamp": "00:00:28.000",
       "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-15_933.jpg"
+      "proof_image": "reports/local_test/face_proofs/multiface_00-00-28_000.jpg"
     },
     {
-      "timestamp": "00:00:16.000",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-16_000.jpg"
+      "timestamp": "00:00:36.000",
+      "reason": "Multiple Faces (3)",
+      "proof_image": "reports/local_test/face_proofs/multiface_00-00-36_000.jpg"
     },
     {
-      "timestamp": "00:00:16.067",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-16_067.jpg"
+      "timestamp": "00:00:40.000",
+      "reason": "No Face",
+      "proof_image": "reports/local_test/face_proofs/noface_00-00-40_000.jpg"
     },
     {
-      "timestamp": "00:00:16.133",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-16_133.jpg"
+      "timestamp": "00:00:41.000",
+      "reason": "No Face",
+      "proof_image": "reports/local_test/face_proofs/noface_00-00-41_000.jpg"
     },
     {
-      "timestamp": "00:00:16.200",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-16_200.jpg"
+      "timestamp": "00:00:42.000",
+      "reason": "No Face",
+      "proof_image": "reports/local_test/face_proofs/noface_00-00-42_000.jpg"
     },
     {
-      "timestamp": "00:00:16.267",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-16_267.jpg"
+      "timestamp": "00:00:43.000",
+      "reason": "No Face",
+      "proof_image": "reports/local_test/face_proofs/noface_00-00-43_000.jpg"
     },
     {
-      "timestamp": "00:00:16.333",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-16_333.jpg"
-    },
-    {
-      "timestamp": "00:00:16.400",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-16_400.jpg"
-    },
-    {
-      "timestamp": "00:00:16.467",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-16_467.jpg"
-    },
-    {
-      "timestamp": "00:00:16.533",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-16_533.jpg"
-    },
-    {
-      "timestamp": "00:00:16.600",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-16_600.jpg"
-    },
-    {
-      "timestamp": "00:00:16.667",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-16_667.jpg"
-    },
-    {
-      "timestamp": "00:00:16.733",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-16_733.jpg"
-    },
-    {
-      "timestamp": "00:00:16.800",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-16_800.jpg"
-    },
-    {
-      "timestamp": "00:00:16.867",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-16_867.jpg"
-    },
-    {
-      "timestamp": "00:00:16.933",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-16_933.jpg"
-    },
-    {
-      "timestamp": "00:00:17.000",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-17_000.jpg"
-    },
-    {
-      "timestamp": "00:00:17.067",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-17_067.jpg"
-    },
-    {
-      "timestamp": "00:00:17.133",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-17_133.jpg"
-    },
-    {
-      "timestamp": "00:00:17.200",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-17_200.jpg"
-    },
-    {
-      "timestamp": "00:00:17.267",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-17_267.jpg"
-    },
-    {
-      "timestamp": "00:00:17.333",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-17_333.jpg"
-    },
-    {
-      "timestamp": "00:00:17.400",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-17_400.jpg"
-    },
-    {
-      "timestamp": "00:00:17.467",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-17_467.jpg"
-    },
-    {
-      "timestamp": "00:00:17.533",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-17_533.jpg"
-    },
-    {
-      "timestamp": "00:00:17.600",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-17_600.jpg"
-    },
-    {
-      "timestamp": "00:00:17.667",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-17_667.jpg"
-    },
-    {
-      "timestamp": "00:00:17.733",
-      "reason": "Multiple Faces (2)",
-      "proof_image": "reports/local_test/face_proofs/multiface_00-00-17_733.jpg"
+      "timestamp": "00:00:44.000",
+      "reason": "No Face",
+      "proof_image": "reports/local_test/face_proofs/noface_00-00-44_000.jpg"
     }
   ],
   "gaze_summary": {
-    "total_frames": 1130,
-    "no_face_frames": 0,
-    "multiple_faces_frames": 30,
-    "looking_away_frames": 534,
-    "gaze_accuracy": "52.7%"
+    "total_frames": 1993,
+    "no_face_frames": 5,
+    "multiple_faces_frames": 4,
+    "looking_away_frames": 56,
+    "gaze_accuracy": "97.2%"
   },
   "voice_segments": [
     {
-      "speaker": "SPEAKER_02",
-      "start": "0:00:25.152",
-      "end": "0:00:26.952",
-      "duration": 1.8,
+      "speaker": "SPEAKER_00",
+      "start": "0:00:58.344",
+      "end": "0:01:01.213",
+      "duration": 2.87,
       "flagged": true,
-      "proof_audio": "reports/local_test/voice_proofs/SPEAKER_02_from_25_153s_to_26_952s_cec518.wav"
+      "proof_audio": "reports/local_test/voice_proofs/SPEAKER_00_from_58_345s_to_61_214s_b80c92.wav"
     },
     {
-      "speaker": "SPEAKER_00",
-      "start": "0:00:21.044",
-      "end": "0:00:24.830",
-      "duration": 3.79,
+      "speaker": "SPEAKER_01",
+      "start": "0:00:25.764",
+      "end": "0:00:27.308",
+      "duration": 1.54,
       "flagged": true,
-      "proof_audio": "reports/local_test/voice_proofs/SPEAKER_00_from_21_044s_to_24_830s_dd84fb.wav"
+      "proof_audio": "reports/local_test/voice_proofs/SPEAKER_01_from_25_764s_to_27_309s_86a26b.wav"
     }
   ],
   "gadget_flags": [
@@ -183,19 +78,13 @@
       "start": "0:00",
       "end": "0:00",
       "duration": 1.0,
-      "type": "laptop"
+      "type": "cell phone"
     },
     {
       "start": "0:00",
       "end": "0:00",
       "duration": 2.0,
-      "type": "laptop"
-    },
-    {
-      "start": "0:00",
-      "end": "0:00",
-      "duration": 1.0,
-      "type": "laptop"
+      "type": "cell phone"
     }
   ]
 }

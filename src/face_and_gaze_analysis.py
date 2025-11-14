@@ -52,7 +52,7 @@ def _is_gaze_centered(landmarks, horiz_thresh=0.02, vert_thresh=0.04) -> bool:
 
 
 def analyze_face_and_gaze(video_path: str,
-                         frame_step: int = 2,
+                         frame_step,
                          horiz_threshold: float = 0.02,
                          vert_threshold: float = 0.04,
                          consecutive_guard: int = 2,
@@ -72,6 +72,7 @@ def analyze_face_and_gaze(video_path: str,
 
     total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT) or 0)
     fps = cap.get(cv2.CAP_PROP_FPS) or 30.0
+    frame_step = int(fps)
 
     mp_face_detection = mp.solutions.face_detection
     mp_face_mesh = mp.solutions.face_mesh

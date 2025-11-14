@@ -1,22 +1,22 @@
 {
-  "primary_speaker": "SPEAKER_01",
-  "audio_duration": 37.69,
+  "primary_speaker": "SPEAKER_02",
+  "audio_duration": 66.48,
   "segments": [
     {
-      "speaker": "SPEAKER_02",
-      "start": "0:00:25.152",
-      "end": "0:00:26.952",
-      "duration": 1.8,
+      "speaker": "SPEAKER_00",
+      "start": "0:00:58.344",
+      "end": "0:01:01.213",
+      "duration": 2.87,
       "flagged": true,
-      "proof_audio": "reports/local_test/voice_proofs/SPEAKER_02_from_25_153s_to_26_952s_cec518.wav"
+      "proof_audio": "reports/local_test/voice_proofs/SPEAKER_00_from_58_345s_to_61_214s_b80c92.wav"
     },
     {
-      "speaker": "SPEAKER_00",
-      "start": "0:00:21.044",
-      "end": "0:00:24.830",
-      "duration": 3.79,
+      "speaker": "SPEAKER_01",
+      "start": "0:00:25.764",
+      "end": "0:00:27.308",
+      "duration": 1.54,
       "flagged": true,
-      "proof_audio": "reports/local_test/voice_proofs/SPEAKER_00_from_21_044s_to_24_830s_dd84fb.wav"
+      "proof_audio": "reports/local_test/voice_proofs/SPEAKER_01_from_25_764s_to_27_309s_86a26b.wav"
     }
   ],
   "min_flag_duration": 1.5

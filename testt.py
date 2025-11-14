@@ -19,7 +19,6 @@ import time
 from datetime import datetime
 from fpdf import FPDF
 from multiprocessing import Process, Manager
-import cv2
 
 from src.face_and_gaze_analysis import analyze_face_and_gaze
 from src.voice_diarization import run_diarization_and_extract_snippets
@@ -187,14 +186,9 @@ def main():
 
     try:
         # --- 1. FACE + GAZE ANALYSIS ---
-        cap = cv2.VideoCapture(args.video)
-        fps = cap.get(cv2.CAP_PROP_FPS) or 30
-        cap.release()
-
-        frame_step = int(fps)
         t0_face = start_timer()
         print("[STEP] Running Face + Gaze Analysis...")
-        fg_result = analyze_face_and_gaze(args.video, frame_step= int(fps), outdir=args.outdir)
+        fg_result = analyze_face_and_gaze(args.video, frame_step=2, outdir=args.outdir)
         end_timer(t0_face, "Face + Gaze Analysis")
 
         fps = fg_result.get("fps", 30)
